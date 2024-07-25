@@ -1,0 +1,1 @@
+improved version of BFS where algorithm not just passes through all the elements, but searches for the path from the initial setpoint to the final one and outputs the path(also outputs size of the path) 
